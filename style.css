@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: url('./1.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.el1{
+    background-color: white;
+    border-top: 1px solid black;
+    font-size: 50px;
+    margin-top: 700px;
+    font-size: 50px;
+}
+.el{
+    background-color: white;
+    font-size: 50px;
+}
